@@ -6,7 +6,7 @@
 
 Building intelligent systems that scale • Research to Production • 4.0 GPA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhan-shaikh75)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-subhan.shaikh.me@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhan.shaikh.me@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-rolofy.online-green?style=for-the-badge&logo=google-chrome)](https://rolofy.online) -->
 
@@ -39,53 +39,6 @@ class SubhanShaikh:
             "specialties": ["RAG", "Multi-Agent Systems", "Model Optimization"]
         }
 ```
-
----
-
-## 💼 PROFESSIONAL EXPERIENCE
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Gogentic.ai
-**Applied AI Intern** | June - Sept 2025
-
-- 💰 Reduced AI costs by **80%**
-- ⚡ Boosted performance by **50%**
-- 🎯 Led team to ship MVP in 8 weeks
-- 🔧 Migrated to self-hosted models
-
-</td>
-<td width="50%">
-
-### 🔬 UC Santa Cruz AIEA Lab
-**Research Assistant** | Jan 2025 - Present
-
-- 🧠 Symbolic reasoning + LLMs
-- 📚 Novel RAG techniques (**+27%** quality)
-- 📊 AI explainability research
-- 🔍 Hybrid reasoning systems
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💻 IBM
-**AI Trainee Intern** | Sept - Nov 2023
-
-- ✋ Sign language recognition (**90%** accuracy)
-- 📦 Full ML pipeline development
-- 🤝 Stakeholder presentations
-- 🎓 Deep learning frameworks
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -178,6 +131,31 @@ RAG Pipelines • Multi-Agent Systems • Model Fine-tuning (LoRA/QLoRA) • Qua
 
 ---
 
+## 💼 PROFESSIONAL EXPERIENCE
+
+### 🚀 Gogentic.ai — Applied AI Intern
+**June - Sept 2025** | Remote
+
+- 💰 Reduced AI infrastructure costs by **80%** by migrating from third-party APIs to self-hosted open-source models
+- ⚡ Improved backend performance by **50%** through optimized workflows and resource management
+- 🎯 Led AI team to deliver production MVP in 8 weeks serving real users
+
+### 🔬 UC Santa Cruz AIEA Lab — Research Assistant
+**Jan 2025 - Present** | Santa Cruz, CA
+
+- 🧠 Researching symbolic reasoning integration with LLMs for enhanced AI explainability
+- 📚 Developing novel RAG techniques achieving **+27% quality improvement** over baseline systems
+- 🔍 Contributing to cutting-edge AI interpretability research
+
+### 💻 IBM — AI Trainee Intern
+**Sept - Nov 2023** | Remote
+
+- ✋ Built Sign Language Recognition model achieving **90% accuracy** on ASL dataset
+- 📦 Delivered full ML pipeline from data preprocessing to model deployment
+- 🤝 Collaborated on prototype delivery and stakeholder presentations
+
+---
+
 ## 🎯 CURRENT FOCUS
 
 <table>
@@ -267,8 +245,8 @@ I'm passionate about building production AI systems that solve real problems. Pa
 
 📧 subhan.shaikh.me@gmail.com  
 📱 (925) 430-9582  
-💼 [LinkedIn Profile](www.linkedin.com/in/subhan-shaikh75)  
-
+💼 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+🌐 Portfolio: rolofy.online
 
 ---
 
@@ -276,6 +254,6 @@ I'm passionate about building production AI systems that solve real problems. Pa
 
 *"Building AI that bridges research and reality"*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=subhan75&color=blue&style=flat-square)](https://github.com/subhan75)
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)](https://github.com/yourusername)
 
 </div>
