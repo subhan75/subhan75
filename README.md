@@ -6,7 +6,7 @@
 
 Building intelligent systems that scale • Research to Production • 4.0 GPA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhan-shaikh75)
 [![Email](https://img.shields.io/badge/Email-subhan.shaikh.me@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhan.shaikh.me@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-rolofy.online-green?style=for-the-badge&logo=google-chrome)](https://rolofy.online) -->
 
@@ -245,7 +245,7 @@ I'm passionate about building production AI systems that solve real problems. Pa
 
 📧 subhan.shaikh.me@gmail.com  
 📱 (925) 430-9582  
-💼 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+💼 [LinkedIn Profile](https://linkedin.com/in/subhan-shaikh75)  
 🌐 Portfolio: rolofy.online
 
 ---
@@ -254,6 +254,6 @@ I'm passionate about building production AI systems that solve real problems. Pa
 
 *"Building AI that bridges research and reality"*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)](https://github.com/yourusername)
+[![Profile Views](https://komarev.com/ghpvc/?username=subhan75&color=blue&style=flat-square)](https://github.com/subhan75)
 
 </div>
