@@ -48,14 +48,14 @@ class SubhanShaikh:
 
 ### 🌐 [rolofy.online](https://rolofy.online)
 #### Social Profile Aggregation Platform
-**2,000+ ACTIVE USERS** • FULL-STACK • PRODUCTION
+**2,000+ IMPRESSIONS** • FULL-STACK • PRODUCTION
 
 </div>
 
-The flagship project - a complete web platform where users manage all their social profiles in one place. Built from scratch with authentication, database architecture, and deployed to handle real production traffic.
+A complete web platform where users manage all their social profiles in one place. Built from scratch with authentication, database architecture, and deployed to handle real production traffic.
 
-**Impact:** Serving 2,000+ users daily with seamless profile management  
-**Tech:** Python • Flask • PostgreSQL • HTML/CSS/JavaScript • Full Auth System
+**Impact:** Serving 20+ users daily with 40+ seamless profile management  
+**Tech:** Python • Flask • Supabase • HTML/CSS/JavaScript • React.js
 
 ---
 
