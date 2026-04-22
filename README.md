@@ -8,7 +8,7 @@ I build AI systems. Not demos — actual things that run in production.
 Curious by default, builder by habit.
 
 [![Email](https://img.shields.io/badge/Email-subhan.shaikh.me%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhan.shaikh.me@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-subhanshaikh75-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/subhan-shaikh75)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subhanshaikh75-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhan-shaikh75)
 [![Latest Build](https://img.shields.io/badge/Portfolio-rolofy.online-22c55e?style=flat-square&logo=google-chrome&logoColor=white)](https://rolofy.online)
 
 </div>
@@ -97,5 +97,5 @@ GPA: 4.0 · Courses: AI, Machine Learning, Deep Learning, Projects in AI, Databa
 AI/ML engineering roles at startups. Interested in teams that are building real systems and care about getting the details right — retrieval quality, evaluation, reliability under scale. Not looking for teams where AI is a buzzword on a roadmap.
 
 [![Email](https://img.shields.io/badge/Email-subhan.shaikh.me%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhan.shaikh.me@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-subhanshaikh75-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/subhan-shaikh75)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subhanshaikh75-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhan-shaikh75)
 
