@@ -27,20 +27,13 @@ I don't pad my resume. Everything below is something I actually did.
 
 ## Experience
 
-**Applied AI Engineer · Gogentic.ai** *(June – Sept 2025)*
-Joined early, led the AI team, built the backend from scratch. Migrated from third-party APIs to open-source models — cut infrastructure costs by 80% and improved backend performance by 50%. Delivered a working MVP in 8 weeks.
-
-**AI Automation Intern · Propel Flow** *(June – Aug 2025)*
-Built AI-driven automation tools for platforms like LinkedIn, Slack, Facebook, and Reddit. Analyzed community interactions to surface customer pain points and turn them into automated workflows.
-
-**Graduate Researcher · UCSC AIEA Lab** *(Jan 2025 – Present)*
-Working in Prof. Leilani Gilpin's lab on LLM explainability and RAG techniques. Specifically looking at how symbolic reasoning (Prolog-based) can make LLM decisions more interpretable.
-
-**Course Tutor · Baskin Engineering, UCSC** *(Sept 2025 – Mar 2026)*
-Tutored CSE 40 (Intro to ML). Helped students actually understand the concepts, not just pass the exam.
-
-**AI Intern · IBM** *(Sept – Nov 2022)*
-Built a Sign Language Recognition model on the ASL dataset. Handled data preprocessing, model design, and optimization. Hit 90% accuracy.
+| **Role** | **Company** | **Period** | **What I did** |
+|----------|-------------|------------|----------------|
+| Applied AI Engineer | Gogentic.ai | June – Sept 2025 | Led AI team, built backend from scratch. Migrated to open-source models — 80% cost reduction, 50% perf boost. MVP in 8 weeks. |
+| AI Automation Intern | Propel Flow | June – Aug 2025 | Built automation tools for LinkedIn, Slack, Facebook, Reddit. Surfaced pain points, shipped workflows. |
+| Graduate Researcher | UCSC AIEA Lab | Jan 2025 – Present | LLM explainability + RAG research under Prof. Leilani Gilpin. Symbolic reasoning (Prolog) + LLM interpretability. |
+| Course Tutor | Baskin Engineering, UCSC | Sept 2025 – Mar 2026 | Tutored CSE 40 (Intro to ML). Concepts first, not just exam prep. |
+| AI Intern | IBM | Sept – Nov 2022 | Sign Language Recognition on ASL dataset. Full pipeline — preprocessing to deployment. 90% accuracy. |
 
 ---
 
