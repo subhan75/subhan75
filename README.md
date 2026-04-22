@@ -2,12 +2,14 @@
 
 # Subhan Shaikh
 
-**MS Computer Science @ UC Santa Cruz (4.0 GPA) · Graduating June 2026**
+**The AI Eagle**
 
 I build AI systems. Not demos — actual things that run in production.
 Curious by default, builder by habit.
 
-[Email](mailto:subhan.shaikh.me@gmail.com) · [LinkedIn](https://linkedin.com/in/subhanshaikh75) · [rolofy.online](https://rolofy.online)
+[![Email](https://img.shields.io/badge/Email-subhan.shaikh.me%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhan.shaikh.me@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subhanshaikh75-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhanshaikh75)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rolofy.online-22c55e?style=flat-square&logo=google-chrome&logoColor=white)](https://rolofy.online)
 
 </div>
 
@@ -15,9 +17,11 @@ Curious by default, builder by habit.
 
 ## Who I am
 
-I'm a grad student at UCSC finishing my MS in CS next June. I spend most of my time either building something, reading papers, or trying to understand why something broke.
+I'm a recent grad student at UCSC in MS CS. I spend most of my time either building something, reading papers, or trying to understand why something broke.
 
 My focus is on LLMs and the systems around them — RAG pipelines, multi-agent architectures, retrieval, evaluation. I've done this in research settings (AIEA Lab) and in a real startup (Gogentic), and I think the gap between those two worlds is smaller than people assume if you're willing to do the work.
+
+I don't pad my resume. Everything below is something I actually did.
 
 ---
 
@@ -48,20 +52,34 @@ Multi-modal, multi-agent system for diagnosing broken household devices from use
 **rolofy.online**
 Social profile aggregation platform. One place to manage all your social links. Built full-stack from scratch — Flask, Supabase, React. Live in production.
 
-**NestIQ** *(In progress)*
-California housing rights assistant. Hierarchical chunking, hybrid retrieval (dense + sparse with RRF fusion), confidence-based routing, FastAPI backend, Next.js frontend. Building this to show what production RAG actually looks like end to end.
-
 ---
 
 ## Skills
 
-**Languages:** Python (primary), some Java, C++
+**Languages**
 
-**ML / AI:** PyTorch, LangChain, Autogen, OpenAI API, Anthropic API, RAG pipelines, model quantization, vector search (pgvector, FAISS)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
 
-**Backend / Infra:** FastAPI, Flask, PostgreSQL, Docker, Kubernetes, Git
+**ML / AI**
 
-**Currently learning:** LangGraph, LangSmith, GCP Cloud Run
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
+[![Autogen](https://img.shields.io/badge/Autogen-FF6B6B?style=flat-square&logoColor=white)](#)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white)](#)
+[![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)](#)
+
+**Backend / Infra**
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
 ---
 
@@ -76,12 +94,8 @@ GPA: 4.0 · Courses: AI, Machine Learning, Deep Learning, Projects in AI, Databa
 
 ## Looking for
 
-AI/ML engineering roles starting June 2026. Interested in teams that are building real systems and care about getting the details right — retrieval quality, evaluation, reliability under scale. Not looking for teams where AI is a buzzword on a roadmap.
+AI/ML engineering roles at startups. Interested in teams that are building real systems and care about getting the details right — retrieval quality, evaluation, reliability under scale. Not looking for teams where AI is a buzzword on a roadmap.
 
-📧 subhan.shaikh.me@gmail.com · 📱 (925) 430-9582
+[![Email](https://img.shields.io/badge/Email-subhan.shaikh.me%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhan.shaikh.me@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subhanshaikh75-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhanshaikh75)
 
----
-
-<div align="center">
-<sub>I update this when something changes. Last updated April 2026.</sub>
-</div>
