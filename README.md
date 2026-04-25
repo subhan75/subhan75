@@ -9,7 +9,7 @@ Curious by default, builder by habit.
 
 [![Email](https://img.shields.io/badge/Email-subhan.shaikh.me%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhan.shaikh.me@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-subhanshaikh75-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhan-shaikh75)
-[![Latest Build](https://img.shields.io/badge/Portfolio-rolofy.online-22c55e?style=flat-square&logo=google-chrome&logoColor=white)](https://rolofy.online)
+[![Latest Build]](https://rolofy.online)
 
 </div>
 
